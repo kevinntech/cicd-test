@@ -9,4 +9,4 @@ sleep 5
 
 echo "> Jar 파일 실행"
 
-nohup java -jar *.jar &
+java -jar *.jar &
