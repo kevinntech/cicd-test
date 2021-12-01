@@ -10,3 +10,5 @@ sleep 5
 echo "> Jar 파일 실행"
 
 java -jar *.jar &
+
+echo "> Jar 파일 실행 완료"
